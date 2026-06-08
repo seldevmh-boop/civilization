@@ -1,0 +1,70 @@
+.div-back {
+    background: #b3ceff;
+    height: 110px;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+
+    a {
+        font-size: 2rem;
+    }
+
+}
+
+.hr-back {
+    position: fixed;
+    top: 100px;
+    left: 0;
+    width: 100%;
+    color: #b3b3b3;
+    z-index: 11;
+}
+
+.all {
+    margin: 20px;
+    display: block;
+    background: #5e87f7;
+    color: aliceblue;
+    text-decoration-line: none;
+    text-align: center;
+    padding: 15px;
+    border-radius: 14px;
+    font-weight: 500;
+    font-size: 20px;
+    height: 40px;
+    align-content: center;
+    border: 1px solid #414b77;
+    box-shadow: 0px 0px 20px 1px #4c89fa;
+    font-family: "myfont";
+    box-shadow: 2px 2px 0px 1px #4a5e80;
+    transition: 250ms;
+
+}
+
+.all:hover {
+    scale: 1.07;
+    background: #6486e6c4;
+}
+
+body {
+    background: #b3ceff;
+    color: rgb(7, 7, 5);
+    scroll-behavior: smooth;
+}
+
+.div-back {
+    background: #b3ceff;
+    height: 110px;
+    width: 96%;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+
+    a {
+        font-size: 2rem;
+    }
+
+}
